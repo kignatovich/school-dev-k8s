@@ -7,7 +7,7 @@ ssh sbox.slurm.io
 
 Открываем в браузере репозиторий xpaste. Он находится по адресу
 
-https://gitlab.com/slurm-io/xpaste
+https://gitlab.com/kignatovich/xpaste
 
 Справа на одной линии с названием проекта видим кнопку fork. Нажимаем ее.
 Выбираем в качестве нэймспэйса в следующем окне свой логин.
